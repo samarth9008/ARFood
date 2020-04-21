@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769887002972",
+    "firebase_url": "https://arfood-e14e0.firebaseio.com",
+    "project_id": "arfood-e14e0",
+    "storage_bucket": "arfood-e14e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769887002972:android:ccb1985ccbb56f276da199",
+        "android_client_info": {
+          "package_name": "com.example.arfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769887002972-i030hj6paahf25kvblfgapp9t22mp16a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arfood",
+            "certificate_hash": "62868e1396225efb0881d59045cc23fa3ae7a2ef"
+          }
+        },
+        {
+          "client_id": "769887002972-tt3mnl9f68eoai4mt83k2lnpsd1pi011.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQWgA9LufKWoWpr_p6bHmK_Qnwzeh38I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769887002972-tt3mnl9f68eoai4mt83k2lnpsd1pi011.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
